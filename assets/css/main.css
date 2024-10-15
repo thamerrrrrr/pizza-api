@@ -1,0 +1,20 @@
+*{
+margin:0;
+padding:0;
+} 
+.container{
+    margin:auto;
+    width:80%;
+}
+.row{
+    display:flex;
+    justify-content: center;
+    align-items: centre;
+    gap:10px;
+}
+img{
+    width:50px;
+}
+
+
+
